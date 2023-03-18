@@ -1,4 +1,4 @@
 # sample-repo
 更新
 
-no-fast-featureブランチで変更
+mainブランチで変更(コンフリクト発生)
